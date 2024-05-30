@@ -1,7 +1,3 @@
-<h1 align="center">Hola 👋, Soy gregory</h1>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
 
 
 
@@ -9,7 +5,7 @@
 
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  Sobre mí
+  Sobre mí  👋
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
