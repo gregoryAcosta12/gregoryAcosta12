@@ -44,7 +44,12 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="80">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="80">
     </div>
+</div>
+
    <h2 align="center">Used IDE's</h2>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
