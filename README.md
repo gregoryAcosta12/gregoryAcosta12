@@ -1,4 +1,4 @@
-🌱 **Full-Stack Developer** | Apasionado por el código limpio y las soluciones escalables
+🌱 **Software Developer Mid-Level** | Apasionado por el código limpio y las soluciones escalables
 
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
@@ -55,20 +55,20 @@ Creo firmemente en el **aprendizaje continuo** y en la mejora constante de mis h
 
 ### 🛠️ Tecnologías que manejo
 
-**Frontend**  
-`React.js` · `Next.js` · `Tailwind CSS` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3`
+#### Frontend  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-**Backend**  
-`Node.js` · `Express.js` · `C# .NET (ASP.NET Core)` · `Java Spring Boot` · `MVC` · `N-Capa` · `Microservicios` · `REST APIs`
+#### Backend  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
-**Móvil**  
-`React Native` · `Expo`
+#### Móvil  
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 
-**Bases de Datos**  
-`MySQL` · `SQL Server` · `PostgreSQL` · `MongoDB`
+#### Bases de Datos  
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-**Herramientas y Metodologías**  
-`Git` · `GitHub` · `Jira` · `Notion` · `Azure` · `Scrum`
+#### Herramientas y Metodologías  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
 ---
 
@@ -80,49 +80,4 @@ Creo firmemente en el **aprendizaje continuo** y en la mejora constante de mis h
 
 ---
 
-⭐ *“La calidad no es un acto, es un hábito”* — Aristóteles  
-<p>
-  👯 Busco colaborar en <strong>Desarrollo Web o Software</strong>.
-</p>
-<p>
-  ⚡ Dato curioso: <strong>La mejor parte del viaje es: <em>que termina</em>.</strong>
-</p>
-
-<br/><br/>
-
-
-
-
-<br>
-<div align="center">
-    <h2 align="center">Mis tecnologías actuales:</h2>
-    <div align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="80">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="80">
-    </div>
-</div>
-
-   <h2 align="center">Used IDE's</h2>
-    <div align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="80">
-    </div>
-</div>
-
-
-
-
-
-
-<hr width="46%" >
-
-
+⭐ *“La calidad no es un acto, es un hábito”* — Aristóteles
